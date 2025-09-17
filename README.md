@@ -8,8 +8,7 @@
 
 ## Demostración del Proyecto
 
-🎥 **Video Demostrativo:** https://drive.google.com/file/d/1pdP7TFtOuZEPXBxaLWNUu5RYpAiHwVml/view?usp=sharing
-
+🎥 **Video Demostrativo:** https://drive.google.com/file/d/1vPcrpSRlawNrVPv-nnf1fACV9UudM1mf/view?usp=drivesdk
 ## Descripción del Proyecto
 
 Esta es una aplicación móvil desarrollada con React Native y Expo que implementa navegación entre pantallas, almacenamiento local y conectividad con Firebase.
